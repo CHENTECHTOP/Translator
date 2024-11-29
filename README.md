@@ -1,4 +1,4 @@
-# Translator
+# Vladichhok Translator
 Це перекладач построєний на GoogleAPI
 
 Запуск файла через cmd, заходите в папку з файлами і вверху строка в ній пишите cmd.
