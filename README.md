@@ -6,3 +6,5 @@
 Вилазить командна строка і ви в ній пишите python TranslatorGoogleAPI.py або python3 TranslatorGoogleAPI.py
 
 Все!
+
+Не забудьте скачати microphone.png, background.jpg
